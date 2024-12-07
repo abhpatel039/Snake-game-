@@ -1,2 +1,2 @@
 # Snake-game-
-create an amazing snake game
+created an amazing snake game
